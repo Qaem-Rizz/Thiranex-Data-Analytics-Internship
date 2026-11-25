@@ -1,111 +1,135 @@
-# 📊 Data Analytics Internship Projects – Thiranex
+# 📊 Thiranex – Data Analytics Internship Projects
 
-A comprehensive repository showcasing data analytics, business intelligence, and predictive modeling projects completed during my internship at Thiranex. The projects focus on data cleaning, customer insights, revenue analysis, and forecasting using real-world business datasets and analytical techniques.
+A collection of four Power BI dashboard projects covering sales analysis, customer segmentation, predictive analytics, and data cleaning and reporting automation.
 
-## 🌟 Overview
+## 📌 Internship Overview
 
-This repository contains end-to-end data analytics implementations designed to solve business problems through data exploration, preprocessing, visualization, and predictive modeling. It demonstrates the complete workflow from raw data to actionable business insights.
-
-## 🔍 Key Areas
-
-- 🧹 **Data cleaning and preprocessing** – Handling missing values, duplicates, inconsistent formats, and data quality issues.
-- 📈 **Exploratory data analysis** – Identifying trends, patterns, relationships, and outliers in business data.
-- 👥 **Customer insights** – Understanding customer behavior, segmentation, purchasing patterns, and retention opportunities.
-- 💰 **Revenue analysis** – Evaluating sales trends, product performance, regional performance, and profitability indicators.
-- 📉 **Forecasting and predictive modeling** – Applying statistical and machine learning techniques to support business planning.
-- 📊 **Business intelligence reporting** – Communicating findings through visualizations, dashboards, and recommendations.
-
-## 🛠️ Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- SQL
-- Jupyter Notebook
-- Excel and CSV data processing
-
-## 🔄 Typical Project Workflow
-
-1. 📥 Collect and inspect the raw data.
-2. 🧼 Clean, transform, and validate the data.
-3. 🔍 Perform exploratory data analysis.
-4. 📊 Create visualizations and identify important business trends.
-5. 🤖 Build forecasting or predictive models where appropriate.
-6. 📝 Summarize findings and provide business recommendations.
+| Detail | Information |
+|---|---|
+| Organization | Thiranex EduTech LLP |
+| Domain | Data Analytics |
+| Tools | Microsoft Power BI |
+| Project Count | 4 |
 
 ## 📁 Repository Structure
 
 ```text
-Data-analytics-internship-projects-in-Thiranex/
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Exploratory analysis and modeling notebooks
-├── scripts/              # Reusable preprocessing and analysis scripts
-├── dashboards/           # Business intelligence dashboards
-├── reports/              # Analysis reports and summaries
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── LICENSE               # Project license
+Thiranex-Data-Analytics-Internship/
+│
+├── CUSTOMER SEGMENTATION ANALYSIS BOARD.pbix
+│
+├── DATA CLEANING & REPORTING AUTOMATION DASHBOARD.pbix
+│
+├── SALES & REVENUE ANALYSIS DASHBOARD.pbix
+│
+├── SALES PREDICTION DASHBOARD.pbix
+│
+└── README.md
 ```
 
-> The folders above describe the intended organization of the project. The repository structure may evolve as additional projects and deliverables are added.
+## 🚀 Projects Included
 
-## 🚀 Getting Started
+### 1. Sales & Revenue Analysis Dashboard
 
-Clone the repository:
+**File:** `SALES & REVENUE ANALYSIS DASHBOARD.pbix`
+
+Objective:
+Analyze sales and revenue performance through interactive business intelligence visualizations.
+
+Key Focus Areas:
+- Sales performance analysis
+- Revenue trends
+- Product performance
+- Business performance monitoring
+- Interactive data visualization
+
+### 2. Customer Segmentation Dashboard
+
+**File:** `CUSTOMER SEGMENTATION ANALYSIS BOARD.pbix`
+
+Objective:
+Analyze customer behavior and identify meaningful customer segments.
+
+Key Focus Areas:
+- Customer behavior analysis
+- Customer segmentation
+- Purchasing patterns
+- Customer insights
+- Segment visualization
+
+### 3. Predictive Analytics Dashboard
+
+**File:** `SALES PREDICTION DASHBOARD.pbix`
+
+Objective:
+Explore predictive analytics and sales forecasting using historical information.
+
+Key Focus Areas:
+- Historical sales analysis
+- Sales prediction
+- Trend analysis
+- Predictive visualization
+- Forecasting insights
+
+### 4. Data Cleaning & Reporting Automation Dashboard
+
+**File:** `DATA CLEANING & REPORTING AUTOMATION DASHBOARD.pbix`
+
+Objective:
+Explore data quality management and reporting workflows.
+
+Key Focus Areas:
+- Data quality analysis
+- Missing value identification
+- Duplicate detection
+- Data consistency
+- Reporting and visualization
+
+## 🛠️ Technologies Used
+
+- Microsoft Power BI
+- Power Query
+- Data Visualization
+- Business Intelligence
+- Data Analytics
+
+## 💻 How to Open the Projects
+
+1. Clone this repository:
 
 ```bash
-git clone https://github.com/abinaya-345/Data-analytics-internship-projects-in-Thiranex.git
-cd Data-analytics-internship-projects-in-Thiranex
+git clone https://github.com/Qaem-Rizz/Thiranex-Data-Analytics-Internship.git
 ```
 
-Create and activate a virtual environment (recommended):
+2. Navigate to the project directory:
 
 ```bash
-python -m venv venv
-
-# macOS/Linux
-source venv/bin/activate
-
-# Windows
-venv\Scripts\activate
+cd Thiranex-Data-Analytics-Internship
 ```
 
-Install the project dependencies if `requirements.txt` is available:
+3. Install Microsoft Power BI Desktop.
 
-```bash
-pip install -r requirements.txt
-```
+4. Open any `.pbix` file using Power BI Desktop.
 
-Launch Jupyter Notebook:
+5. Explore the dashboards, visualizations, and available interactive features.
 
-```bash
-jupyter notebook
-```
+## 📚 Learning Objectives
 
-## ✅ Skills Demonstrated
+These projects cover important concepts in data analytics:
 
-- Data preparation and quality assessment
-- Exploratory and descriptive analytics
-- Customer and revenue analysis
-- Data visualization and storytelling
-- Forecasting and predictive modeling
-- Business-focused interpretation of analytical results
+- Business intelligence and dashboard development
+- Data visualization and interpretation
+- Customer analytics
+- Sales and revenue analysis
+- Predictive analytics
+- Data quality and reporting
 
-## 🌱 Future Enhancements
+## 👨‍💻 Repository Maintainer
 
-- Add interactive Power BI or Tableau dashboards.
-- Include documented SQL queries for recurring analyses.
-- Expand forecasting models and compare model performance.
-- Add automated data-processing and reporting pipelines.
-- Publish project-specific findings and key performance indicators.
+**Qaem Hussain Rizvi**
 
-## 📜 License
+GitHub: [Qaem-Rizz](https://github.com/Qaem-Rizz)
 
-This project is available for educational and portfolio purposes. Add a license file if specific reuse and distribution terms are required.
+---
 
-## 🤝 Contact
-
-For questions, collaboration, or feedback, please open an issue in this repository or connect with [Qaem](https://github.com/Qaem-Rizz).
+*Created for educational and learning purposes as part of the Thiranex Data Analytics Internship.*
